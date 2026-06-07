@@ -1,0 +1,11 @@
+How to update Radio Portal from 1.0/1.1 to 1.2
+
+Please follow the steps below to update.
+
+1. [Important] Take a backup of your database and all files before starting the update.
+2. Upload update.php to your site's home folder.
+3. Run yoursite.com/update.php on your browser
+4. Follow the instructions.
+5. Delete the update.php
+
+If you have experienced any problems, please contact us at support@foxart.co (not .com)

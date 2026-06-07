@@ -1,0 +1,11 @@
+Radio Portal v1.2 Changelog
+
+Added: Visitor Comments
+Added: Radio Submission Feature
+Added: Ability to Add Radios via API [Beta]
+Added: M3U8 Support
+Added: Custom Error Pages
+Added: Detailed Radio Description Support (With WYSIWYG Editor)
+Added: Contact Page
+Added: FAQ Page
+Fixed: Bugs
